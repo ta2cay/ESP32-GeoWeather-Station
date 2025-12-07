@@ -1,9 +1,10 @@
 # ESP32 GeoWeather Station (Hava ve Konum İstasyonu) 🛰️🌡️
 
 [![Project Video](https://img.youtube.com/vi/EmByUC7QB1E/0.jpg)](https://www.youtube.com/watch?v=EmByUC7QB1E)
+
 *(Projeyi çalışırken görmek için videoya tıklayın / Click the image to watch the project video)*
 
-## 🇹🇷 Proje Hakkında (Turkish)
+## 🇹🇷 Proje Hakkında 
 
 Bu proje, bir ESP32 mikrodenetleyicisi kullanarak taşınabilir bir hava durumu ve GPS konum izleme istasyonu oluşturur. Sistem, NEO-6M modülünden gerçek zamanlı GPS verilerini (enlem, boylam, hız, yükseklik) ve DHT11 sensöründen ortam sıcaklık/nem bilgilerini okur. Tüm bu veriler, anlık olarak 0.96 inçlik bir OLED ekranda kullanıcıya sunulur.
 
